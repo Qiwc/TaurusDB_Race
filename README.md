@@ -23,7 +23,7 @@
 
 
 
-![image](https://github.com/Qiwc/TaurusDB-Race/blob/master/images/file.png)
+![image](<https://github.com/Qiwc/TaurusDB_Race/tree/master/image/file.png>)
 
 
 
